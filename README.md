@@ -1,2 +1,2 @@
 # RaspberryPi_facedetection
-RaspberryPiで顔認識
+RaspberryPiで顔認識（OpenCV CascadeClassifier）
